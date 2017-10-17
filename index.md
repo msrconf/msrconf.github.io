@@ -1,4 +1,4 @@
-### Welcome to the International Conference on Mining Software Repositories!
+Welcome to the International Conference on Mining Software Repositories!
 The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
 ### Upcoming confererences
