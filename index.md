@@ -1,6 +1,9 @@
 Welcome to the International Conference on Mining Software Repositories!
 The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
+### The Impact and Value of MSR publications 
+For  information concerning the impact and value of MSR publications, please consult this [document](./MSR_Impact.pdf).
+
 ### Upcoming confererences
 MSR 2019, Montréal, Quebec, Canada <br/>
 [MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden 
