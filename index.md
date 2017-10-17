@@ -1,14 +1,25 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Welcome to the International Conference on Mining Software Repositories!
+The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### Upcoming confererences
+MSR 2019, Montréal, Quebec, Canada
+[MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### Past conferences
+[MSR 2017](http://2017.msrconf.org/), Buenos Aires, Argentina 
+[MSR 2016](http://2016.msrconf.org/), Austin, TX, USA 
+[MSR 2015](http://2015.msrconf.org/), Florence, Italy 
+[MSR 2014](http://2014.msrconf.org/), Hyderabad, India 
+[MSR 2013](http://2013.msrconf.org/), San Francisco, CA, USA 
+[MSR 2012](http://2012.msrconf.org/), Zurich, Switzerland 
+[MSR 2011](http://2011.msrconf.org/), Honolulu, HI, USA 
+[MSR 2010](http://2010.msrconf.org/), Cape Town, South Africa 
+[MSR 2009](http://2009.msrconf.org/), Vancouver, BC, Canada 
+[MSR 2008](http://2008.msrconf.org/), Leipzig, Germany 
+[MSR 2007](http://2007.msrconf.org/), Minneapolis, MN, USA 
+[MSR 2006](http://2006.msrconf.org/), Shanghai, China 
+[MSR 2005](http://2005.msrconf.org/), Saint Louis, Missouri, USA 
+[MSR 2004](http://2004.msrconf.org/), Edinburgh, UK 
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Any questions about the MSR conference series? Contact the MSR Steering Committee (msr-sc at googlegroups dot com) and we’ll help you sort it out.
