@@ -7,7 +7,7 @@ awards, the MSR Early Career Achievement Award and the MSR Foundational
 Contribution Award. Please submit your nominations by February 15, 2018, 23:59 AOE.
 
 ### Upcoming confererences
-MSR 2019, Montréal, Quebec, Canada <br/>
+[MSR 2019](http://2019.msrconf.org/), Montréal, Quebec, Canada <br/>
 [MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden 
 
 ### Past conferences
