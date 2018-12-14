@@ -29,7 +29,7 @@ Contribution Award. Please submit your nominations by February 1, 2019, 23:59 AO
 [MSR 2004](http://2004.msrconf.org/), Edinburgh, UK
 
 ### Impact and value of MSR publications 
-MSR in ranked A in the [CORE ranking](http://portal.core.edu.au/conf-ranks/711/).
+MSR in [ranked A](http://portal.core.edu.au/conf-ranks/711/) in the CORE ranking.
 
 For information concerning the impact and value of MSR publications, please consult this [document](./MSR_Impact.pdf).
 
