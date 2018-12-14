@@ -13,8 +13,8 @@ MSR 2020, Seoul, South Korea <br/>
 [MSR 2019](http://2019.msrconf.org/), Montréal, Quebec, Canada <br/>
 
 ### Past conferences
-[MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden 
-[MSR 2017](http://2017.msrconf.org/), Buenos Aires, Argentina [General Chair Report](https://github.com/msrconf/msrconf/raw/master/2017/report/report.pdf)<br/>
+[MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden <br/>
+[MSR 2017](http://2017.msrconf.org/), Buenos Aires, Argentina [General Chair Report](https://github.com/msrconf/msrconf/raw/master/2017/report/report.pdf) <br/>
 [MSR 2016](http://2016.msrconf.org/), Austin, TX, USA <br/>
 [MSR 2015](http://2015.msrconf.org/), Florence, Italy <br/>
 [MSR 2014](http://2014.msrconf.org/), Hyderabad, India <br/>
