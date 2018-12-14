@@ -6,6 +6,8 @@ The Mining Software Repositories community has started a series of two new
 awards, the MSR Early Career Achievement Award and the MSR Foundational 
 Contribution Award. Please submit your nominations by February 1, 2019, 23:59 AOE.
 
+### [MSR Steering Committee](http://www.msrconf.org/sc)
+
 ### Upcoming confererences
 [MSR 2019](http://2019.msrconf.org/), Montréal, Quebec, Canada <br/>
 [MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden 
@@ -27,7 +29,7 @@ Contribution Award. Please submit your nominations by February 1, 2019, 23:59 AO
 [MSR 2004](http://2004.msrconf.org/), Edinburgh, UK
 
 ### Impact and value of MSR publications 
-MSR in ranked A in the CORE ranking.
+MSR in ranked A in the [CORE ranking](http://portal.core.edu.au/conf-ranks/711/).
 
 For information concerning the impact and value of MSR publications, please consult this [document](./MSR_Impact.pdf).
 
