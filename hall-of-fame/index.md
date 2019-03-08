@@ -9,13 +9,18 @@
 
 # Most Influential Paper – Honorable Mention
 
-2015
-
+<table>
+<thead><td>Year</td><td></td></thead>
+<tr><td>2015</td>
+<td>
 [Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162)
 
 Gregorio Robles and Jesus M. Gonzalez-Barahona
 
 "For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."
+</td></tr>
+<tr><td>sss</td><td>ddd</td></tr>
+</table>
 
 # ACM SIGSOFT Distinguished Papers
 
