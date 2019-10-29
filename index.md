@@ -9,10 +9,10 @@ Contribution Award. Please submit your nominations by February 1, 2019, 23:59 AO
 ### [MSR Steering Committee](http://www.msrconf.org/sc)
 
 ### Upcoming confererences
-MSR 2020, Seoul, South Korea <br/>
-[MSR 2019](http://2019.msrconf.org/), Montréal, Quebec, Canada <br/>
+[MSR 2020](https://2020.msrconf.org/), Seoul, South Korea <br/>
 
 ### Past conferences
+[MSR 2019](http://2019.msrconf.org/), Montréal, Quebec, Canada <br/>
 [MSR 2018](http://2018.msrconf.org/), Gothenburg, Sweden <br/>
 [MSR 2017](http://2017.msrconf.org/), Buenos Aires, Argentina [General Chair Report](https://github.com/msrconf/msrconf/raw/master/2017/report/report.pdf) <br/>
 [MSR 2016](http://2016.msrconf.org/), Austin, TX, USA <br/>
