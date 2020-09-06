@@ -8,7 +8,7 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Alberto Bacchelli | Election 2018 |
 | Kelly Blincoe | MSR 2021 PC |
 | Jesus M. Gonzalez Barahona | MSR 2017 GC |
-| Georgios Gousios | Election 2017 |
+| Georgios Gousios | MSR 2020 PC, Election 2017 |
 | Sonia Haiduc | MSR 2019 PC |
 | Emily Hill | MSR 2018 PC |
 | Abram Hindle | MSR 2017 PC |
@@ -22,7 +22,7 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Peggy Storey | MSR 2019 GC |
 | Lin Tan | MSR 2017 PC |
 | Xin Xia | Election 2019 |
-| Andy Zaidman | MSR 2019 GC |
+| Andy Zaidman | MSR 2018 GC |
 | Thomas Zimmermann | SC Chair, MSR 2010 PC, MSR 2011 PC, MSR 2013 GC |
 
 # MSR Steering Committee Alumni (as of July 2019)
