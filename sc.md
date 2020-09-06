@@ -1,3 +1,13 @@
+The steering commitee of the MSR conference provides general guidance and direction for the MSR conference and selects future GC and PC Chairs. 
+The composition of the steering commitee is as follows:
+
+* Includes past PC chairs and GC for the past N-3 MSR conferences
+* Includes any appointed future PC chairs and GC
+* 2 members per year are selected by the attendees of the current MSR. 
+* Up to 1-2 members per year can be selected by the SC to help the MSR SC grow in strategic areas. 
+
+Example: The PC chair of MSR 2011 would rotate off at the end of the meeting at MSR 2014
+
 # MSR Steering Committee (as of July 2019)
 
 To contact the Steering Committee, please send an email to msr-sc (at) googlegroups (dot) com
