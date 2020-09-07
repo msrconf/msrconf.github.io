@@ -1,5 +1,5 @@
-The steering commitee of the MSR conference provides general guidance and direction for the MSR conference and selects future GC and PC Chairs. 
-The composition of the steering commitee is as follows:
+The steering committee of the MSR conference provides general guidance and direction for the MSR conference and selects future GC and PC Chairs. 
+The composition of the steering committee is as follows:
 
 * Includes past PC chairs and GC for the past N-3 MSR conferences
 * Includes any appointed future PC chairs and GC
