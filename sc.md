@@ -47,3 +47,12 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Romain Robbes | MSR 2015 PC, MSR 2016 PC |
 | Diomidis Spinellis | Election 2016 |
 | Miryung Kim | MSR 2016 GC |
+| Michele Lanza	| MSR 2007 PC, MSR 2008 PC, MSR 2012 GC | 
+| Tao Xie	| MSR 2011 PC, MSR 2012 PC | 
+| Audris Mockus | MSR 2004, MSR 2010 GC	
+| Ric Holt | MSR 2004, MSR 2005	| 
+| Katsuro Inoue | MSR 2009 GC	| 
+| Stephan Diehl | MSR 2005, MSR 2006 |  	
+| Harald Gall | MSR 2006, MSR 2007 PC	| 
+| Mike Godfrey | MSR 2008 PC, MSR 2009 PC | 	
+| Jim Whitehead | MSR 2009 PC, MSR 2010 PC | 
