@@ -8,7 +8,7 @@ The composition of the steering committee is as follows:
 
 Example: The PC chair of MSR 2011 would rotate off at the end of the meeting at MSR 2014
 
-# MSR Steering Committee (as of July 2019)
+# MSR Steering Committee (as of September 2020)
 
 To contact the Steering Committee, please send an email to msr-sc (at) googlegroups (dot) com
 
