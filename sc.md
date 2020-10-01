@@ -16,12 +16,12 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 |------|---------------|
 | Bram Adams | MSR 2019 PC, Election 2016 |
 | Alberto Bacchelli | Election 2018 |
+| Christian Bird | Election 2020, MSR 2016 PC |
 | Kelly Blincoe | MSR 2021 PC |
-| Jesus M. Gonzalez Barahona | MSR 2017 GC |
 | Georgios Gousios | MSR 2020 PC, Election 2017 |
 | Sonia Haiduc | MSR 2019 PC |
 | Emily Hill | MSR 2018 PC |
-| Abram Hindle | MSR 2017 PC |
+| Abram Hindle | Election 2020, MSR 2017 PC |
 | Yasutaka Kamei | MSR 2018 PC |
 | Foutse Khomh | Election 2019 |
 | Sunghun Kim | MSR 2020 GC, MSR 2014 PC, MSR 2013 PC |
@@ -30,7 +30,6 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Gregorio Robles | MSR 2021 GC |
 | Emad Shihab | Election 2018 |
 | Peggy Storey | MSR 2019 GC |
-| Lin Tan | MSR 2017 PC |
 | Xin Xia | Election 2019 |
 | Andy Zaidman | MSR 2018 GC |
 | Thomas Zimmermann | SC Chair, MSR 2010 PC, MSR 2011 PC, MSR 2013 GC |
@@ -39,7 +38,8 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 
 | Name | Member Status |
 |------|---------------|
-| Christian Bird | MSR 2016 PC |
+| Jesus M. Gonzalez Barahona | MSR 2017 GC |
+| Lin Tan | MSR 2017 PC |
 | Max Di Penta | MSR 2012 PC, MSR 2013 PC, MSR 2015 GC |
 | Ahmed Hassan | Invited 2015, MSR 2004, MSR 2005, MSR 2006, MSR 2008 |
 | Gail Murphy | Invited 2015 |
