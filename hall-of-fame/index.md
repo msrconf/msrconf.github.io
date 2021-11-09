@@ -53,7 +53,7 @@
 | 2014 | [Sentiment Analysis of Commit Messages in GitHub: An Empirical Study](http://dl.acm.org/citation.cfm?id=2597118) <br/>Emitza Guzman, David Azócar, and Yang Li <br/><br/> <b>Honorable mention:</b> [Do developers discuss design?](http://dl.acm.org/citation.cfm?id=2597115) <br/> João Brunet, Gail C. Murphy, Ricardo Terra, Jorge Figueiredo, and Dalton Serey <br/><br/><b>Honorable mention:</b> [A Study of External Community Contribution to Open-Source Projects on GitHub](http://dl.acm.org/citation.cfm?id=2597113) <br/> Rohan Padhye, Senthil Mani, and Vibha Singhal Sinha|
 | 2013 | [Encouraging User Behaviour with Achievements: An Empirical Study](http://dl.acm.org/citation.cfm?id=2487101) <br/> Scott Grant and Buddy Betts |
 | 2012 | [Do the stars align? Multidimensional analysis of Android's layered architecture](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6224269) <br/> Victor Guana, Fabio Rocha, Abram Hindle and Eleni Stroulia |
-| 2011 [Apples Vs. Oranges? An exploration of the challenges of comparing the source code of two software systems](http://turingmachine.org/~dmg/papers/dmg2011_applesOranges_msr.pdf) <br/> Daniel M. German and Julius Davies
+| 2011 | [Apples Vs. Oranges? An exploration of the challenges of comparing the source code of two software systems](http://turingmachine.org/~dmg/papers/dmg2011_applesOranges_msr.pdf) <br/> Daniel M. German and Julius Davies
 | 2010 | [Cloning and Copying between GNOME Projects](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463290) <br/> Jens Krinke, Nicolas Gold, Yue Jia, and David Binkley |
 | 2009 | [On the use of Internet Relay Chat (IRC) meeting by developers of the GNOME GTK+ project](http://dl.acm.org/citation.cfm?id=1591145) <br/> Emad Shihab, Zhen Ming Jiang, and Ahmed E. Hassan |
 | 2008 | [A newbie's guide to Eclipse APIs](http://dl.acm.org/citation.cfm?id=1370787) <br/> Reid Holmes and Robert J. Walker |
@@ -65,32 +65,8 @@
 
 | Year | <!-- --> |
 |-|-|
-2017
-
-[A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf)
-
-Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik
-
-2016
-
-[Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509)
-
-Megan Squire
-
-2015
-
-[A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf)
-
-Diomidis Spinellis
-
-2014
-
-[A dataset for pull-based development research](http://www.gousios.gr/pub/pullreqs-dataset.pdf)
-
-Georgios Gousios and Andy Zaidman
-
-2013
-
-[The GHTorent Dataset and Tool Suite](http://dl.acm.org/citation.cfm?id=2487132)
-
-Georgios Gousios
+| 2017 | [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf) <br/> Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik |
+| 2016 | [Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509) <br/> Megan Squire | 
+| 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis
+| 2014 | [A dataset for pull-based development research](http://www.gousios.gr/pub/pullreqs-dataset.pdf) <br/> Georgios Gousios and Andy Zaidman |
+| 2013 | [The GHTorent Dataset and Tool Suite](http://dl.acm.org/citation.cfm?id=2487132) <br/> Georgios Gousios |
