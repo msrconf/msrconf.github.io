@@ -4,135 +4,32 @@
 |-|-|
 | 2017 | [How Long Will It Take to Fix This Bug?](http://dl.acm.org/citation.cfm?id=1269017) <br/> Cathrin Weiss, Rahul Premraj, Thomas Zimmermann, and Andreas Zeller <br/> "For paving the way of actionable software analytics." |
 | 2016 | [Mining email social networks (MSR 2006)](http://dl.acm.org/citation.cfm?id=1138016) <br/> Christian Bird, Alex Gourley, Prem Devanbu, Michael Gertz and Anand Swaminathan <br/> "For their fundational influence on studies of socio-technical activities in software projects." |
-| 2015 | [When do changes induce fixes? (MSR 2005)](http://dl.acm.org/citation.cfm?id=1083147) <br/> Jacek Sliwerski, Thomas Zimmermann, and Andreas Zeller <br/> "Prior software quality research focused on flagging files with bugs, but the SZZ algorithm by Sliwerski et al. was the first work to focus on flagging faulty changes. By flagging bugs before they get into the code, follow-up research has taken a preventive role instead of a catchup role." |
+| 2015 | [When do changes induce fixes? (MSR 2005)](http://dl.acm.org/citation.cfm?id=1083147) <br/> Jacek Sliwerski, Thomas Zimmermann, and Andreas Zeller <br/> "Prior software quality research focused on flagging files with bugs, but the SZZ algorithm by Sliwerski et al. was the first work to focus on flagging faulty changes. By flagging bugs before they get into the code, follow-up research has taken a preventive role instead of a catchup role." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162) <br/> Gregorio Robles and Jesus M. Gonzalez-Barahona <br/> "For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."|
 | 2014 | [Preprocessing CVS Data for Fine-Grained Analysis (MSR 2004)](https://www.st.cs.uni-saarland.de/papers/msr2004/msr2004.pdf) <br/> Thomas Zimmermann and Peter Weißgerber <br/> "For clearly and engagingly presenting practices that stood at the core of early MSR approaches, thus lowering the entry barrier for the researchers worldwide to join this emerging field." |
 
-# Most Influential Paper – Honorable Mention
-
-<table>
-<thead><td>Year</td><td></td></thead>
-<tr><td>2015</td>
-<td>
-[Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162)
-
-Gregorio Robles and Jesus M. Gonzalez-Barahona
-
-"For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."
-</td></tr>
-<tr><td>sss</td><td>ddd</td></tr>
-</table>
 
 # ACM SIGSOFT Distinguished Papers
 
-2017
-
-Classifying code comments in Java open-source software systems
-
-Luca Pascarella and Alberto Bacchelli
-
-2017
-
-Some From Here, Some From There: Cross-Project Code Reuse in GitHub
-
-Mohammad Gharehyazie, Baishakhi Ray and Vladimir Filkov
-
-2015
-
-[Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551)
-
-Felivel Camilo, Andrew Meneely and Meiyappan Nagappan
-
-2015
-
-[Characterization and prediction of issue-related risks in software projects](http://dl.acm.org/citation.cfm?id=2820552)
-
-Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran and Aditya Ghose
+| Year | <!-- --> |
+|-|-|
+| 2017 | Classifying code comments in Java open-source software systems <br/> Luca Pascarella and Alberto Bacchelli <br/><br/> Some From Here, Some From There: Cross-Project Code Reuse in GitHub <br/> Mohammad Gharehyazie, Baishakhi Ray and Vladimir Filkov|
+| 2016 | [Adressing problems with external validity of repository mining studies through a smart data platform](http://dl.acm.org/citation.cfm?id=2901753) <br/> Fabian Trautsch, Steffen Herbold, Philip Makedonski and Jens Grabowski <br/> <br/> [Studying the Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues - An Empirical Study of the Mozilla Firefox Project](http://dl.acm.org/citation.cfm?id=2901764) <br/> Daniel Alencar da Costa, Shane McIntosh, Uirá Kulesza and Ahmed E. Hassan |
+| 2015 | [Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551) <br/>Felivel Camilo, Andrew Meneely and Meiyappan Nagappan <br/><br/> [Characterization and prediction of issue-related risks in software projects](http://dl.acm.org/citation.cfm?id=2820552) <br/> Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran and Aditya Ghose |
 
 # MSR Distinguished/Best Papers
 
-2016
-
-[Adressing problems with external validity of repository mining studies through a smart data platform](http://dl.acm.org/citation.cfm?id=2901753)
-
-Fabian Trautsch, Steffen Herbold, Philip Makedonski and Jens Grabowski
-
-2016
-
-[Studying the Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues - An Empirical Study of the Mozilla Firefox Project](http://dl.acm.org/citation.cfm?id=2901764)
-
-Daniel Alencar da Costa, Shane McIntosh, Uirá Kulesza and Ahmed E. Hassan
-
-2015
-
-[Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551)
-
-Felivel Camilo, Andrew Meneely and Meiyappan Nagappan
-
-2014
-
-[Towards Building a Universal Defect Prediction Model](http://dl.acm.org/citation.cfm?id=2597078)
-
-Feng Zhang, Audris Mockus, Iman Keivanloo, and Ying Zou
-
-2014
-
-[The Impact of Code Review Coverage and Code Review Participation on Software Quality: A Case Study of the Qt, VTK, and ITK Projects](http://dl.acm.org/citation.cfm?id=2597076)
-
-Shane Mcintosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan
-
-2013
-
-[Automatically Mining Software-based, Semantically-similar Words from Comment-Code Mappings](http://dl.acm.org/citation.cfm?id=2487155)
-
-Matthew J. Howard, Lori Pollock, K. Vijay-Shanker, and Samir Gupta
-
-2012
-
-[Think Locally, Act Globally: Improving Defect and Effort Prediction Models](http://dl.acm.org/citation.cfm?id=2664455)
-
-Nicolas Bettenburg, Meiyappan Nagappan, and Ahmed E. Hassan
-
-2012
-
-[Green mining: A methodology of relating software change to power consumption](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6224303&tag=1)
-
-Abram Hindle
-
-2011
-
-[How Developers Use the Dynamic Features of Programming Languages: the Case of Smalltalk](http://dl.acm.org/citation.cfm?id=1985448)
-
-Oscar Callaú, Romain Robbes, Éric Tanter, and David Röthlisberger
-
-2010
-
-[Clones: What is that Smell?](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463343)
-
-Foyzur Rahman, Christian Bird, and Premkumar Devanbu
-
-2009
-
-[Mining search topics from a code search engine usage log](http://dl.acm.org/citation.cfm?id=1591146)
-
-Sushil Krishna Bajracharya and Cristina Videira Lopes
-
-2008
-
-[AMAP: automatically mining abbreviation expansions in programs to enhance software maintenance tools](http://dl.acm.org/citation.cfm?id=1370771)
-
-Emily Hill, Zachary P. Fry, Haley Boyd, Giriprasad Sridhara, Yana Novikova, Lori L. Pollock, and K. Vijay-Shanker
-
-2007
-
-[Identifying Changed Source Code Lines from Version Repositories](http://dl.acm.org/citation.cfm?id=1269028)
-
-Gerardo Canfora, Luigi Cerulo, and Massimiliano Di Penta
-
-2006
-
-[Mining Large Software Compilations over Time: Another Perspective of Software Evolution](http://dl.acm.org/citation.cfm?id=1137986)
-
-Gregorio Robles, Jesus M. Gonzalez-Barahona, Martin Michlmayr, and Juan Jose Amor
+| Year | <!-- --> |
+|-|-|
+| 2015 | [Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551) <br/> Felivel Camilo, Andrew Meneely and Meiyappan Nagappan |
+| 2014 | [Towards Building a Universal Defect Prediction Model](http://dl.acm.org/citation.cfm?id=2597078) <br/> Feng Zhang, Audris Mockus, Iman Keivanloo, and Ying Zou <br/> <br/> [The Impact of Code Review Coverage and Code Review Participation on Software Quality: A Case Study of the Qt, VTK, and ITK Projects](http://dl.acm.org/citation.cfm?id=2597076) <br/> Shane Mcintosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan | 
+| 2013 | [Automatically Mining Software-based, Semantically-similar Words from Comment-Code Mappings](http://dl.acm.org/citation.cfm?id=2487155) <br/> Matthew J. Howard, Lori Pollock, K. Vijay-Shanker, and Samir Gupta |
+| 2012 | [Think Locally, Act Globally: Improving Defect and Effort Prediction Models](http://dl.acm.org/citation.cfm?id=2664455) <br/> Nicolas Bettenburg, Meiyappan Nagappan, and Ahmed E. Hassan <br/><br/> [Green mining: A methodology of relating software change to power consumption](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6224303&tag=1) <br/> Abram Hindle | 
+| 2011 | [How Developers Use the Dynamic Features of Programming Languages: the Case of Smalltalk](http://dl.acm.org/citation.cfm?id=1985448) <br/>Oscar Callaú, Romain Robbes, Éric Tanter, and David Röthlisberger | 
+| 2010 | [Clones: What is that Smell?](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463343) <br/> Foyzur Rahman, Christian Bird, and Premkumar Devanbu |
+| 2009 | [Mining search topics from a code search engine usage log](http://dl.acm.org/citation.cfm?id=1591146) <br/>Sushil Krishna Bajracharya and Cristina Videira Lopes |
+| 2008 | [AMAP: automatically mining abbreviation expansions in programs to enhance software maintenance tools](http://dl.acm.org/citation.cfm?id=1370771) <br/> Emily Hill, Zachary P. Fry, Haley Boyd, Giriprasad Sridhara, Yana Novikova, Lori L. Pollock, and K. Vijay-Shanker |
+| 2007 | [Identifying Changed Source Code Lines from Version Repositories](http://dl.acm.org/citation.cfm?id=1269028) <br/> Gerardo Canfora, Luigi Cerulo, and Massimiliano Di Penta |
+| 2006 | [Mining Large Software Compilations over Time: Another Perspective of Software Evolution](http://dl.acm.org/citation.cfm?id=1137986)<br/> Gregorio Robles, Jesus M. Gonzalez-Barahona, Martin Michlmayr, and Juan Jose Amor |
 
 # MSR Early Career Achievement Award
 
