@@ -1,3 +1,15 @@
+# MSR Foundational Contribution Award
+
+| Year | <!-- --> |
+|-|-|
+2017 | Tim Menzies, North Carolina State University, USA <br/> "For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
+
+# MSR Early Career Achievement Award
+
+| Year | <!-- --> |
+|-|-|
+| 2017| Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
+
 # Most Influential Papers
 
 | Year | <!-- --> |
@@ -7,8 +19,8 @@
 | 2015 | [When do changes induce fixes? (MSR 2005)](http://dl.acm.org/citation.cfm?id=1083147) <br/> Jacek Sliwerski, Thomas Zimmermann, and Andreas Zeller <br/> "Prior software quality research focused on flagging files with bugs, but the SZZ algorithm by Sliwerski et al. was the first work to focus on flagging faulty changes. By flagging bugs before they get into the code, follow-up research has taken a preventive role instead of a catchup role." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162) <br/> Gregorio Robles and Jesus M. Gonzalez-Barahona <br/> "For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."|
 | 2014 | [Preprocessing CVS Data for Fine-Grained Analysis (MSR 2004)](https://www.st.cs.uni-saarland.de/papers/msr2004/msr2004.pdf) <br/> Thomas Zimmermann and Peter Weißgerber <br/> "For clearly and engagingly presenting practices that stood at the core of early MSR approaches, thus lowering the entry barrier for the researchers worldwide to join this emerging field." |
 
-
 # ACM SIGSOFT Distinguished Papers
+Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT Distinguished Paper Awards. Since 2016 there is no separate Best Paper award anymore.
 
 | Year | <!-- --> |
 |-|-|
@@ -17,6 +29,7 @@
 | 2015 | [Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551) <br/>Felivel Camilo, Andrew Meneely and Meiyappan Nagappan <br/><br/> [Characterization and prediction of issue-related risks in software projects](http://dl.acm.org/citation.cfm?id=2820552) <br/> Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran and Aditya Ghose |
 
 # MSR Distinguished/Best Papers
+Until 2015 the MSR conference recognized outstanding papers with MSR Best Paper Awards or in the case of multiple winners with MSR Distinguished Paper Awards. In 2015 the MSR conference awarded both MSR Best Paper and ACM SIGSOFT Distingusihed Paper Awards.
 
 | Year | <!-- --> |
 |-|-|
@@ -31,17 +44,15 @@
 | 2007 | [Identifying Changed Source Code Lines from Version Repositories](http://dl.acm.org/citation.cfm?id=1269028) <br/> Gerardo Canfora, Luigi Cerulo, and Massimiliano Di Penta |
 | 2006 | [Mining Large Software Compilations over Time: Another Perspective of Software Evolution](http://dl.acm.org/citation.cfm?id=1137986)<br/> Gregorio Robles, Jesus M. Gonzalez-Barahona, Martin Michlmayr, and Juan Jose Amor |
 
-# MSR Early Career Achievement Award
+# Best Data Showcase Award
 
 | Year | <!-- --> |
 |-|-|
-| 2017| Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
-
-# MSR Foundational Contribution Award
-
-| Year | <!-- --> |
-|-|-|
-2017 | Tim Menzies, North Carolina State University, USA <br/> "For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
+| 2017 | [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf) <br/> Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik |
+| 2016 | [Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509) <br/> Megan Squire | 
+| 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis
+| 2014 | [A dataset for pull-based development research](http://www.gousios.gr/pub/pullreqs-dataset.pdf) <br/> Georgios Gousios and Andy Zaidman |
+| 2013 | [The GHTorent Dataset and Tool Suite](http://dl.acm.org/citation.cfm?id=2487132) <br/> Georgios Gousios |
 
 # Mining Challenge Winners
 
@@ -60,13 +71,3 @@
 | 2007 | [Mining Eclipse Developer Contributions via Author-Topic Models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4228667) <br/> Erik Linstead, Paul Rigor, Sushil Bajracharya, Cristina Lopes, and Pierre Baldi |
 | 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German
 
-
-# Best Data Showcase Award
-
-| Year | <!-- --> |
-|-|-|
-| 2017 | [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf) <br/> Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik |
-| 2016 | [Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509) <br/> Megan Squire | 
-| 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis
-| 2014 | [A dataset for pull-based development research](http://www.gousios.gr/pub/pullreqs-dataset.pdf) <br/> Georgios Gousios and Andy Zaidman |
-| 2013 | [The GHTorent Dataset and Tool Suite](http://dl.acm.org/citation.cfm?id=2487132) <br/> Georgios Gousios |
