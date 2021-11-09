@@ -33,112 +33,38 @@
 
 # MSR Early Career Achievement Award
 
-2017
-
-Abram Hindle
-University of Alberta, Canada
-"To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining."
+| Year | <!-- --> |
+|-|-|
+| 2017| Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
 
 # MSR Foundational Contribution Award
 
-2017
-
-Tim Menzies
-
-North Carolina State University, USA
-
-"For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
+| Year | <!-- --> |
+|-|-|
+2017 | Tim Menzies, North Carolina State University, USA <br/> "For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
 
 # Mining Challenge Winners
 
-2017
+| Year | <!-- --> |
+|-|-|
+| 2017 | [How Does Contributors' Involvement Influence the Build Status of an Open-Source Software Project?](http://gustavopinto.org/lost+found/msr2017b.pdf) <br/> Marcel Rebouças, Renato Oliveira Dos Santos, Gustavo Pinto and Fernando Castor |
+| 2016 | [Judging a commit by its cover: Correlating commit message entropy with build status on Travis-CI](http://dl.acm.org/citation.cfm?id=2903493) <br/> Eddie Antonio Santos and Abram Hindle | 
+| 2015 | [Mining StackOverflow to Filter out Off-topic IRC Discussion](http://dl.acm.org/citation.cfm?id=2820577) <br/> Shaiful Chowdhury and Abram Hindle |
+| 2014 | [Sentiment Analysis of Commit Messages in GitHub: An Empirical Study](http://dl.acm.org/citation.cfm?id=2597118) <br/>Emitza Guzman, David Azócar, and Yang Li <br/><br/> <b>Honorable mention:</b> [Do developers discuss design?](http://dl.acm.org/citation.cfm?id=2597115) <br/> João Brunet, Gail C. Murphy, Ricardo Terra, Jorge Figueiredo, and Dalton Serey <br/><br/><b>Honorable mention:</b> [A Study of External Community Contribution to Open-Source Projects on GitHub](http://dl.acm.org/citation.cfm?id=2597113) <br/> Rohan Padhye, Senthil Mani, and Vibha Singhal Sinha|
+| 2013 | [Encouraging User Behaviour with Achievements: An Empirical Study](http://dl.acm.org/citation.cfm?id=2487101) <br/> Scott Grant and Buddy Betts |
+| 2012 | [Do the stars align? Multidimensional analysis of Android's layered architecture](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6224269) <br/> Victor Guana, Fabio Rocha, Abram Hindle and Eleni Stroulia |
+| 2011 [Apples Vs. Oranges? An exploration of the challenges of comparing the source code of two software systems](http://turingmachine.org/~dmg/papers/dmg2011_applesOranges_msr.pdf) <br/> Daniel M. German and Julius Davies
+| 2010 | [Cloning and Copying between GNOME Projects](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463290) <br/> Jens Krinke, Nicolas Gold, Yue Jia, and David Binkley |
+| 2009 | [On the use of Internet Relay Chat (IRC) meeting by developers of the GNOME GTK+ project](http://dl.acm.org/citation.cfm?id=1591145) <br/> Emad Shihab, Zhen Ming Jiang, and Ahmed E. Hassan |
+| 2008 | [A newbie's guide to Eclipse APIs](http://dl.acm.org/citation.cfm?id=1370787) <br/> Reid Holmes and Robert J. Walker |
+| 2007 | [Mining Eclipse Developer Contributions via Author-Topic Models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4228667) <br/> Erik Linstead, Paul Rigor, Sushil Bajracharya, Cristina Lopes, and Pierre Baldi |
+| 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German
 
-[How Does Contributors' Involvement Influence the Build Status of an Open-Source Software Project?](http://gustavopinto.org/lost+found/msr2017b.pdf)
 
-Marcel Rebouças, Renato Oliveira Dos Santos, Gustavo Pinto and Fernando Castor
+# Best Data Showcase Award
 
-2016
-
-[Judging a commit by its cover: Correlating commit message entropy with build status on Travis-CI](http://dl.acm.org/citation.cfm?id=2903493)
-
-Eddie Antonio Santos and Abram Hindle
-
-2015
-
-[Mining StackOverflow to Filter out Off-topic IRC Discussion](http://dl.acm.org/citation.cfm?id=2820577)
-
-Shaiful Chowdhury and Abram Hindle
-
-2014
-
-[Sentiment Analysis of Commit Messages in GitHub: An Empirical Study](http://dl.acm.org/citation.cfm?id=2597118)
-
-Emitza Guzman, David Azócar, and Yang Li
-
-2013
-
-[Encouraging User Behaviour with Achievements: An Empirical Study](http://dl.acm.org/citation.cfm?id=2487101)
-
-Scott Grant and Buddy Betts
-
-2012
-
-[Do the stars align? Multidimensional analysis of Android's layered architecture](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6224269)
-
-Victor Guana, Fabio Rocha, Abram Hindle and Eleni Stroulia
-
-2011
-
-[Apples Vs. Oranges? An exploration of the challenges of comparing the source code of two software systems](http://turingmachine.org/~dmg/papers/dmg2011_applesOranges_msr.pdf)
-
-Daniel M. German and Julius Davies
-
-2010
-
-[Cloning and Copying between GNOME Projects](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5463290)
-
-Jens Krinke, Nicolas Gold, Yue Jia, and David Binkley
-
-2009
-
-[On the use of Internet Relay Chat (IRC) meeting by developers of the GNOME GTK+ project](http://dl.acm.org/citation.cfm?id=1591145)
-
-Emad Shihab, Zhen Ming Jiang, and Ahmed E. Hassan
-
-2008
-
-[A newbie's guide to Eclipse APIs](http://dl.acm.org/citation.cfm?id=1370787)
-
-Reid Holmes and Robert J. Walker
-
-2007
-
-[Mining Eclipse Developer Contributions via Author-Topic Models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4228667)
-
-Erik Linstead, Paul Rigor, Sushil Bajracharya, Cristina Lopes, and Pierre Baldi
-
-2006
-
-[A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022)
-
-Daniel M. German
-
-# Mining Challenge – Honorable Mention
-
-2014
-
-[Do developers discuss design?](http://dl.acm.org/citation.cfm?id=2597115)
-
-João Brunet, Gail C. Murphy, Ricardo Terra, Jorge Figueiredo, and Dalton Serey
-
-2014
-
-[A Study of External Community Contribution to Open-Source Projects on GitHub](http://dl.acm.org/citation.cfm?id=2597113)
-
-Rohan Padhye, Senthil Mani, and Vibha Singhal Sinha
-
-Best Data Showcase Award
-
+| Year | <!-- --> |
+|-|-|
 2017
 
 [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf)
