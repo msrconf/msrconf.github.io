@@ -6,7 +6,7 @@ The Mining Software Repositories community has started a series of two new
 awards, the MSR Ric Holt Early Career Achievement Award and the MSR Foundational 
 Contribution Award. Please submit your nominations by February 15, 2022.
 
-### [MSR Hall of Fame](http://www.msrconf.org/s/hall-of-fame)
+### [MSR Hall of Fame](http://www.msrconf.org/hall-of-fame)
 The Hall of Fame collects award winners from past MSR conferences.
 
 ### [MSR Steering Committee](http://www.msrconf.org/sc)
