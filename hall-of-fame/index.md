@@ -2,18 +2,21 @@
 
 | Year | <!-- --> |
 |-|-|
+2021 | Bram Adams, Queens University, Canada <br/> "For pioneering and evangelising the field of release engineering." |
 2017 | Tim Menzies, North Carolina State University, USA <br/> "For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
 
 # MSR Early Career Achievement Award
 
 | Year | <!-- --> |
 |-|-|
+| 2021 | Bogdan Vasilescu, Carnegie Mellon University, USA <br/> "For his seminal contributions in the area of socio-technical behaviour of software engineers." |
 | 2017| Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
 
 # Most Influential Papers
 
 | Year | <!-- --> |
 |-|-|
+| 2021 | [How do developers blog? An exploratory study](https://dl.acm.org/doi/10.1145/1985441.1985461) <br/>Dennis Pagano and Walid Maleej<br/> "For widening the scope of our community with the study of social media." |
 | 2017 | [How Long Will It Take to Fix This Bug?](http://dl.acm.org/citation.cfm?id=1269017) <br/> Cathrin Weiss, Rahul Premraj, Thomas Zimmermann, and Andreas Zeller <br/> "For paving the way of actionable software analytics." |
 | 2016 | [Mining email social networks (MSR 2006)](http://dl.acm.org/citation.cfm?id=1138016) <br/> Christian Bird, Alex Gourley, Prem Devanbu, Michael Gertz and Anand Swaminathan <br/> "For their fundational influence on studies of socio-technical activities in software projects." |
 | 2015 | [When do changes induce fixes? (MSR 2005)](http://dl.acm.org/citation.cfm?id=1083147) <br/> Jacek Sliwerski, Thomas Zimmermann, and Andreas Zeller <br/> "Prior software quality research focused on flagging files with bugs, but the SZZ algorithm by Sliwerski et al. was the first work to focus on flagging faulty changes. By flagging bugs before they get into the code, follow-up research has taken a preventive role instead of a catchup role." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162) <br/> Gregorio Robles and Jesus M. Gonzalez-Barahona <br/> "For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."|
@@ -24,6 +27,9 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 
 | Year | <!-- --> |
 |-|-|
+| 2021 | [What code is deliberately exclude from test coverage and why?](https://homepages.dcc.ufmg.br/~andrehora/pub/2021-msr-test-coverage-exclusion.pdf)<br/>Andre Hora|
+| 2021 | [Fast memory-efficient neural code completion](https://arxiv.org/abs/2004.13651)<br/> Alexey Svyatkovskiy, Sebastian Lee, Anna Hadjitofi, Maik Riechert, Juliana Franco, Miltiadis Allamanis|
+| 2021 | [Escaping the Time Pit: Pitfalls and Guidelines for using Time-Based Git Data](https://arxiv.org/abs/2103.11339)<br/> Samuel W. Flint, Jigyasa Chauhan, Robert Dyer|
 | 2017 | Classifying code comments in Java open-source software systems <br/> Luca Pascarella and Alberto Bacchelli <br/><br/> Some From Here, Some From There: Cross-Project Code Reuse in GitHub <br/> Mohammad Gharehyazie, Baishakhi Ray and Vladimir Filkov|
 | 2016 | [Adressing problems with external validity of repository mining studies through a smart data platform](http://dl.acm.org/citation.cfm?id=2901753) <br/> Fabian Trautsch, Steffen Herbold, Philip Makedonski and Jens Grabowski <br/> <br/> [Studying the Impact of Switching to a Rapid Release Cycle on Integration Delay of Addressed Issues - An Empirical Study of the Mozilla Firefox Project](http://dl.acm.org/citation.cfm?id=2901764) <br/> Daniel Alencar da Costa, Shane McIntosh, Uirá Kulesza and Ahmed E. Hassan |
 | 2015 | [Do Bugs Foreshadow Vulnerabilities? A Study of the Chromium Project](http://dl.acm.org/citation.cfm?id=2820551) <br/>Felivel Camilo, Andrew Meneely and Meiyappan Nagappan <br/><br/> [Characterization and prediction of issue-related risks in software projects](http://dl.acm.org/citation.cfm?id=2820552) <br/> Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran and Aditya Ghose |
@@ -48,6 +54,7 @@ Until 2015 the MSR conference recognized outstanding papers with MSR Best Paper 
 
 | Year | <!-- --> |
 |-|-|
+| 2021 | [DUETS: a Dataset of Reproducible Pairs of Java Library-Clients](https://arxiv.org/abs/2103.09672) <br/>Thomas Durieux, César Soto-Valero, Benoit Baudry |
 | 2017 | [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf) <br/> Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik |
 | 2016 | [Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509) <br/> Megan Squire | 
 | 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis
@@ -58,6 +65,7 @@ Until 2015 the MSR conference recognized outstanding papers with MSR Best Paper 
 
 | Year | <!-- --> |
 |-|-|
+| 2021 | [PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects](https://ieeexplore.ieee.org/document/9463149) <br/> Arthur Veloso Kamienski, Luisa Palechor, Abram Hindle, Cor-Paul Bezemer |
 | 2017 | [How Does Contributors' Involvement Influence the Build Status of an Open-Source Software Project?](http://gustavopinto.org/lost+found/msr2017b.pdf) <br/> Marcel Rebouças, Renato Oliveira Dos Santos, Gustavo Pinto and Fernando Castor |
 | 2016 | [Judging a commit by its cover: Correlating commit message entropy with build status on Travis-CI](http://dl.acm.org/citation.cfm?id=2903493) <br/> Eddie Antonio Santos and Abram Hindle | 
 | 2015 | [Mining StackOverflow to Filter out Off-topic IRC Discussion](http://dl.acm.org/citation.cfm?id=2820577) <br/> Shaiful Chowdhury and Abram Hindle |
@@ -69,5 +77,12 @@ Until 2015 the MSR conference recognized outstanding papers with MSR Best Paper 
 | 2009 | [On the use of Internet Relay Chat (IRC) meeting by developers of the GNOME GTK+ project](http://dl.acm.org/citation.cfm?id=1591145) <br/> Emad Shihab, Zhen Ming Jiang, and Ahmed E. Hassan |
 | 2008 | [A newbie's guide to Eclipse APIs](http://dl.acm.org/citation.cfm?id=1370787) <br/> Reid Holmes and Robert J. Walker |
 | 2007 | [Mining Eclipse Developer Contributions via Author-Topic Models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4228667) <br/> Erik Linstead, Paul Rigor, Sushil Bajracharya, Cristina Lopes, and Pierre Baldi |
-| 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German
+| 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German |
+
+# FOSS Award
+
+| Year | <!-- --> |
+|-|-|
+| 2021 | [Which contributions count? Analysis of attribution in open source](https://arxiv.org/abs/2103.11007)<br/>Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hébert-Dufresne, James P. Bagrow |
+
 
