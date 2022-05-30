@@ -8,16 +8,17 @@ The composition of the steering committee is as follows:
 
 Example: The PC chair of MSR 2011 would rotate off at the end of the meeting at MSR 2014
 
-# MSR Steering Committee (as of September 2020)
+# MSR Steering Committee (as of May 2022)
 
 To contact the Steering Committee, please send an email to msr-sc (at) googlegroups (dot) com
 
 | Name | Member Status |
 |------|---------------|
 | Bram Adams | MSR 2019 PC, Election 2016 |
-| Alberto Bacchelli | Election 2018 |
+| Alberto Bacchelli | MSR 2024 PC, Election 2018 |
 | Christian Bird | Election 2020, MSR 2016 PC |
 | Kelly Blincoe | MSR 2021 PC |
+| Eleni Constantinou | MSR 2024 PC |
 | Georgios Gousios | MSR 2020 PC, Election 2017 |
 | Sonia Haiduc | MSR 2019 PC |
 | Emily Hill | MSR 2018 PC |
@@ -25,12 +26,18 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Yasutaka Kamei | MSR 2018 PC |
 | Foutse Khomh | Election 2019 |
 | Sunghun Kim | MSR 2020 GC, MSR 2014 PC, MSR 2013 PC |
+| David Lo | MSR 2022 GC |
+| Shane McIntosh | MSR 2022 PC |
 | Sarah Nadi | MSR 2020 PC |
 | Mei Nagappan | MSR 2021 PC, Election 2017 |
+| Nicole Novielli | MSR 2022 PC |
 | Gregorio Robles | MSR 2021 GC |
-| Emad Shihab | Election 2018 |
+| Emad Shihab | MSR 2023 GC, Election 2018 |
+| Diomidis Spinellis | MSR 2024 GC, Election 2016 |
 | Peggy Storey | MSR 2019 GC |
+| Patanamon (Pick) Thongtanunam | MSR 2023 PC |
 | Xin Xia | Election 2019 |
+| Bogdan Vasilescu | MSR 2023 PC |
 | Andy Zaidman | MSR 2018 GC |
 | Thomas Zimmermann | SC Chair, MSR 2010 PC, MSR 2011 PC, MSR 2013 GC |
 
@@ -45,7 +52,6 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Gail Murphy | Invited 2015 |
 | Martin Pinzger | MSR 2014 PC, MSR 2015 PC |
 | Romain Robbes | MSR 2015 PC, MSR 2016 PC |
-| Diomidis Spinellis | Election 2016 |
 | Miryung Kim | MSR 2016 GC |
 | Michele Lanza	| MSR 2007 PC, MSR 2008 PC, MSR 2012 GC | 
 | Tao Xie	| MSR 2011 PC, MSR 2012 PC | 
