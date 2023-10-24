@@ -5,6 +5,7 @@
 2021 | Bram Adams, Queens University, Canada <br/> "For pioneering and evangelising the field of release engineering." |
 2020 | Jonathan Maletic and Michael Collard <br/> "For the srcML infrastructure, which addresses many hard problems in source code parsing and has fostered a wide range of research innovations throughout software engineering." |
 2019 | Katsuro Inoue <br/> "For fostering a vibrant international community around software clone analysis and the development of the CCFinder clone detector, which has enabled countless others to do research involving code clones." |
+2018 | Georgios Gousios |
 2017 | Tim Menzies, North Carolina State University, USA <br/> "For his pioneering and meticulous efforts in the creation and maintenance of the PROMISE data repository. The PROMISE repository has had a tremendous and widely-recognized impact on raising the bar for rigorous and repeatable software engineering research worldwide."
 
 # MSR Ric Holt Early Career Achievement Award 
@@ -16,6 +17,7 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 | 2021 | Bogdan Vasilescu, Carnegie Mellon University, USA <br/> "For his seminal contributions in the area of socio-technical behaviour of software engineers." |
 | 2020 | Alberto Bacchelli, University of Zurich, Switzerland <br/> "For his seminal contributions to modern code review." |
 | 2019 | Emad Shihab <br/> "For contributions to the state of the art in research and practice in software quality assurance as well as outreach and education efforts throughout the international MSR community." |
+| 2018 | Meiyappan Nagappan |
 | 2017 | Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
 
 # Most Influential Papers
@@ -25,6 +27,7 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 | 2021 | [How do developers blog? An exploratory study](https://dl.acm.org/doi/10.1145/1985441.1985461) <br/>Dennis Pagano and Walid Maleej<br/> "For widening the scope of our community with the study of social media." |
 | 2020 | [An extensive comparison of bug prediction approaches](https://ieeexplore.ieee.org/document/5463279) <br/> Marco D’Ambros, Michele Lanza, and Romain Robbes <br/> "For early adoption of open science principles by sharing a dataset that enabled significant further research in bug prediction." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings](https://ieeexplore.ieee.org/document/5463348) <br/> Gregorio Robles <br/> "For highlighting the importance of replication in mining software repositories." | 
 | 2019 | [The Promises and Perils of Mining Git](https://dl.acm.org/doi/10.1145/2597073.2597074) <br/> Christian Bird, Peter Rigby, Earl Barr, David Hamilton, Daniel German, and Prem Devanbu |
+| 2018 | [What do large commits tell us? A taxonomical study of large commits](https://dl.acm.org/doi/10.1145/1370750.1370773) <br/> Abram Hindle, Daniel German and Ric Holt | 
 | 2017 | [How Long Will It Take to Fix This Bug?](http://dl.acm.org/citation.cfm?id=1269017) <br/> Cathrin Weiss, Rahul Premraj, Thomas Zimmermann, and Andreas Zeller <br/> "For paving the way of actionable software analytics." |
 | 2016 | [Mining email social networks (MSR 2006)](http://dl.acm.org/citation.cfm?id=1138016) <br/> Christian Bird, Alex Gourley, Prem Devanbu, Michael Gertz and Anand Swaminathan <br/> "For their fundational influence on studies of socio-technical activities in software projects." |
 | 2015 | [When do changes induce fixes? (MSR 2005)](http://dl.acm.org/citation.cfm?id=1083147) <br/> Jacek Sliwerski, Thomas Zimmermann, and Andreas Zeller <br/> "Prior software quality research focused on flagging files with bugs, but the SZZ algorithm by Sliwerski et al. was the first work to focus on flagging faulty changes. By flagging bugs before they get into the code, follow-up research has taken a preventive role instead of a catchup role." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Developer Identification Methods for Integrated Data from Various Sources](http://dl.acm.org/citation.cfm?id=1083162) <br/> Gregorio Robles and Jesus M. Gonzalez-Barahona <br/> "For their pioneering efforts in mining social information. Such information has been the catalyst for many research efforts throughout software engineering."|
@@ -44,6 +47,8 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 | 2019 | [Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study](https://dl.acm.org/doi/10.1109/MSR.2019.00055) <br/>  Simone Scalabrino, Gabriele Bavota, Mario Linares-Vasquez, Michele Lanza and Rocco Oliveto |
 | 2019 | [Standing on Shoulders or Feet? The Usage of the MSR Data Papers](https://dl.acm.org/doi/10.1109/MSR.2019.00085) <br/> Zoe Kotti and Diomidis Spinellis |
 | 2019 | [A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks](https://dl.acm.org/doi/10.1109/MSR.2019.00077) <br/> João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo and Juliana Freire |
+| 2018 | Prevalence of Confusing Code in Software Projects - Atoms of Confusion in the Wild <br/> Dan Gopstein, Hongwei Zhou, Phyllis Frankl and Justin Cappos | 
+| 2018 | Towards Extracting Web API Specifications from Documentation <br/> Jinqiu Yang, Erik Wittern, Annie T.T. Ying, Julian Dolby and Lin Tan |
 | 2017 | Classifying code comments in Java open-source software systems <br/> Luca Pascarella and Alberto Bacchelli |
 | 2017 | Some From Here, Some From There: Cross-Project Code Reuse in GitHub <br/> Mohammad Gharehyazie, Baishakhi Ray and Vladimir Filkov|
 | 2016 | [Adressing problems with external validity of repository mining studies through a smart data platform](http://dl.acm.org/citation.cfm?id=2901753) <br/> Fabian Trautsch, Steffen Herbold, Philip Makedonski and Jens Grabowski |
@@ -76,6 +81,8 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 | 2021 | [Which contributions count? Analysis of attribution in open source](https://arxiv.org/abs/2103.11007)<br/>Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hébert-Dufresne, James P. Bagrow |
 | 2020 | [The Impact of a Major Security Event on an Open Source Project: The Case of OpenSSL](https://dl.acm.org/doi/10.1145/3379597.3387465) <br/> James Walden <br/> "For its analysis on the impact of the Heartbleed vulnerability on the OpenSSL project, providing recommendations for how open source projects can adapt and improve. The author provides guidance regarding metrics that helps to assess the health of a project. This paper is a piece of literature that interesting and relevant to many FOSS maintainers." |
 | 2019 | A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks <br/> João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo and Juliana Freire <br/>&nbsp;<br/> <b>Special Mentions:</b><br/> git2net: Mining Time-Stamped Co-Editing Networks from Large git Repositories <br/> Christoph Gote, Ingo Scholtes and Frank Schweitzer <br/>&nbsp;<br/> Investigating Next Steps in Static API-Misuse Detection <br/> Sven Amann, Hoan Nguyen, Sarah Nadi, Tien Nguyen and Mira Mezini | 
+| 2018 | Characterising Deprecated Android APIs <br/> Li Li, Jun Gao, Tegawendé F. Bissyandé, Lei Ma, Xin Xia and Jacques Klein | 
+ 
 
 # Best Data Showcase Award
 
@@ -84,9 +91,10 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 | 2021 | [DUETS: a Dataset of Reproducible Pairs of Java Library-Clients](https://arxiv.org/abs/2103.09672) <br/>Thomas Durieux, César Soto-Valero, Benoit Baudry |
 | 2020 | [GitterCom: A Dataset of Open Source Developer Communications in Gitter](https://dl.acm.org/doi/10.1145/3379597.3387494) <br/> Esteban Parra, Ashley Ellis and Sonia Haiduc |
 | 2019 | The Maven Dependency Graph: a Temporal Graph-based Representation of Maven Centra <br/> Amine Benelallam, Nicolas Harrand, César Soto-Valero, Benoit Baudry and Olivier Barais <br/>&nbsp;<br/> <b>Special Mention:</b>GreenHub Farmer: Real-world data for Android Energy Mining <br/> Hugo Matalonga, Bruno Cabral, Fernando Castor, Marco Couto, Rui Pereira, Simão Melo de Sousa and João Paulo Fernandes | 
+| 2018 | VulinOSS: A dataset of security vulnerabilities in open-source systems. <br/> Antonios Gkortzis, Dimitris Mitropoulos, and Diomidis Spinellis. |
 | 2017 | [A Data Set of OCL Expressions on GitHub](http://www.win.tue.nl/~aserebre/MSR2017.pdf) <br/> Jeroen F.H. Noten, Josh G.M. Mengerink, Alexander Serebrenik |
 | 2016 | [Data Sets: The Circle of Life in Ruby Hosting, 2003-2015](http://dl.acm.org/citation.cfm?id=2903509) <br/> Megan Squire | 
-| 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis
+| 2015 | [A Repository with 44 Years of Unix Evolution](http://www.dmst.aueb.gr/dds/pubs/conf/2015-MSR-Unix-History/html/Spi15c.pdf) <br/> Diomidis Spinellis |
 | 2014 | [A dataset for pull-based development research](http://www.gousios.gr/pub/pullreqs-dataset.pdf) <br/> Georgios Gousios and Andy Zaidman |
 | 2013 | [The GHTorent Dataset and Tool Suite](http://dl.acm.org/citation.cfm?id=2487132) <br/> Georgios Gousios |
 
@@ -97,6 +105,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 | 2021 | [PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects](https://ieeexplore.ieee.org/document/9463149) <br/> Arthur Veloso Kamienski, Luisa Palechor, Abram Hindle, Cor-Paul Bezemer |
 | 2020 | ? |
 | 2019 | Best Mining Challenge Paper: <br/> Python Coding Style Compliance on Stack Overflow <br/> Nikolaos Bafatakis, Niels Boecker, Wenjie Boon, Martin Cabello Salazar, Jens Krinke, Gazi Oznacar and Robert White <br/>&nbsp;<br/> Best Student Presentation: <br/> Durham Abric for the paper "Can Duplicate Posts on Stack Overflow Benefit the Software Development Community?" by Durham Abric, Oliver Clark, Matthew Caminiti, Keheliya Gallaba and Shane McIntosh |
+| 2018 | ? | 
 | 2017 | [How Does Contributors' Involvement Influence the Build Status of an Open-Source Software Project?](http://gustavopinto.org/lost+found/msr2017b.pdf) <br/> Marcel Rebouças, Renato Oliveira Dos Santos, Gustavo Pinto and Fernando Castor |
 | 2016 | [Judging a commit by its cover: Correlating commit message entropy with build status on Travis-CI](http://dl.acm.org/citation.cfm?id=2903493) <br/> Eddie Antonio Santos and Abram Hindle | 
 | 2015 | [Mining StackOverflow to Filter out Off-topic IRC Discussion](http://dl.acm.org/citation.cfm?id=2820577) <br/> Shaiful Chowdhury and Abram Hindle |
