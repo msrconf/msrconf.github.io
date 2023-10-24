@@ -1,6 +1,11 @@
 Welcome to the International Conference on Mining Software Repositories!
 The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
+### Upcoming confererences
+MSR 2026, Rio de Janeiro, Brazil <br/>
+MSR 2025, Ottawa, Canada <br/>
+[MSR 2024](https://2024.msrconf.org/), Lisbon, Portugal <br/>
+
 ### Mining Software Repositories Awards
 The Mining Software Repositories community has several awards that recognize outstanding contributions.
 
@@ -8,20 +13,16 @@ The Mining Software Repositories community has several awards that recognize out
 * The **Ric Holt Early Career Achievement Award** recognizes outstanding junior researchers who have provided outstanding contributions in the area of mining software repositories.
 * The **Distinguished Doctoral Research Award** recognizes outstanding doctoral research that has the potential to have a strong, long-lasting impact in the research area of mining software repositories. 
 
-For more information on how to nominate for these awards, please visit the webpages of the current MSR conference.
+For information on how to nominate for these awards, please visit the webpage of the current MSR conference.
 
 ### FOSS Impact Award
 
-To encourage research on understanding and improving FOSS (Free, Open Source Software), the MSR conference has established the FOSS Impact Award. The award will be granted to papers that show outstanding contributions to the FOSS community.
+To encourage research on understanding and improving Free, Open Source Software (FOSS), the MSR conference has established the FOSS Impact Award. The award will be granted to MSR papers that show outstanding contributions to the FOSS community.
 
 ### [MSR Hall of Fame](http://www.msrconf.org/hall-of-fame)
 The Hall of Fame collects award winners from past MSR conferences.
 
 ### [MSR Steering Committee](http://www.msrconf.org/sc)
-
-### Upcoming confererences
-MSR 2025, Ottawa, Canada <br/>
-[MSR 2024](https://2024.msrconf.org/), Lisbon, Portugal <br/>
 
 ### Past conferences
 [MSR 2023](https://conf.researchr.org/home/msr-2023), Melbourne, Australia <br/>
