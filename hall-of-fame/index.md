@@ -2,6 +2,7 @@
 
 | Year | <!-- --> |
 |-|-|
+2022 | Dongmei Zhang and Tao Xie<br/> "For their fundamental contributions in opening new areas of software analytics research with pioneering results and techniques that have had high industrial impact. |
 2021 | Bram Adams, Queens University, Canada <br/> "For pioneering and evangelising the field of release engineering." |
 2020 | Jonathan Maletic and Michael Collard <br/> "For the srcML infrastructure, which addresses many hard problems in source code parsing and has fostered a wide range of research innovations throughout software engineering." |
 2019 | Katsuro Inoue <br/> "For fostering a vibrant international community around software clone analysis and the development of the CCFinder clone detector, which has enabled countless others to do research involving code clones." |
@@ -14,6 +15,7 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | Gustavo Pinto <br/> "For his seminal contributions to the study of software sustainability, along dimensions of energy-consumption and social aspects of open source." | 
 | 2021 | Bogdan Vasilescu, Carnegie Mellon University, USA <br/> "For his seminal contributions in the area of socio-technical behaviour of software engineers." |
 | 2020 | Alberto Bacchelli, University of Zurich, Switzerland <br/> "For his seminal contributions to modern code review." |
 | 2019 | Emad Shihab <br/> "For contributions to the state of the art in research and practice in software quality assurance as well as outreach and education efforts throughout the international MSR community." |
@@ -24,6 +26,7 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | GHTorrent: Github’s data from a firehose <br/> Georgios Gousios and Diomidis Spinellis <br/> "For conceiving and maintaining the GHTorrent archive, extensively leveraged by the MSR community." <br/>&nbsp;<br/> Runner Up: <br/> App store mining and analysis: MSR for app stores <br/> Mark Harman, Yue Jia, and Yuanyuan Zhang <br/> "For the pioneering work in the area of app store analytics." |
 | 2021 | [How do developers blog? An exploratory study](https://dl.acm.org/doi/10.1145/1985441.1985461) <br/>Dennis Pagano and Walid Maleej<br/> "For widening the scope of our community with the study of social media." |
 | 2020 | [An extensive comparison of bug prediction approaches](https://ieeexplore.ieee.org/document/5463279) <br/> Marco D’Ambros, Michele Lanza, and Romain Robbes <br/> "For early adoption of open science principles by sharing a dataset that enabled significant further research in bug prediction." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings](https://ieeexplore.ieee.org/document/5463348) <br/> Gregorio Robles <br/> "For highlighting the importance of replication in mining software repositories." | 
 | 2019 | [The Promises and Perils of Mining Git](https://dl.acm.org/doi/10.1145/2597073.2597074) <br/> Christian Bird, Peter Rigby, Earl Barr, David Hamilton, Daniel German, and Prem Devanbu |
@@ -38,6 +41,9 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts <br/> Konstantin Grotov, Sergey Titov, Vladimir Sotnikov, Yaroslav Golubev, Timofey Bryksin |
+| 2022 | On the Violation of Honesty in Mobile Apps: Automated Detection and Categories <br/> Humphrey Obie, Idowu Oselumhe Ilekura, Hung Du, Mojtaba Shahin, John Grundy, Li Li, Jon Whittle, Burak Turhan |
+| 2022 | Operationalizing Threats to MSR Studies by Simulation-Based Testing <br/> Johannes Härtel, Ralf Laemmel |
 | 2021 | [What code is deliberately exclude from test coverage and why?](https://homepages.dcc.ufmg.br/~andrehora/pub/2021-msr-test-coverage-exclusion.pdf)<br/>Andre Hora|
 | 2021 | [Fast memory-efficient neural code completion](https://arxiv.org/abs/2004.13651)<br/> Alexey Svyatkovskiy, Sebastian Lee, Anna Hadjitofi, Maik Riechert, Juliana Franco, Miltiadis Allamanis|
 | 2021 | [Escaping the Time Pit: Pitfalls and Guidelines for using Time-Based Git Data](https://arxiv.org/abs/2103.11339)<br/> Samuel W. Flint, Jigyasa Chauhan, Robert Dyer|
@@ -78,6 +84,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2022  
 | 2021 | [Which contributions count? Analysis of attribution in open source](https://arxiv.org/abs/2103.11007)<br/>Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hébert-Dufresne, James P. Bagrow |
 | 2020 | [The Impact of a Major Security Event on an Open Source Project: The Case of OpenSSL](https://dl.acm.org/doi/10.1145/3379597.3387465) <br/> James Walden <br/> "For its analysis on the impact of the Heartbleed vulnerability on the OpenSSL project, providing recommendations for how open source projects can adapt and improve. The author provides guidance regarding metrics that helps to assess the health of a project. This paper is a piece of literature that interesting and relevant to many FOSS maintainers." |
 | 2019 | A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks <br/> João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo and Juliana Freire <br/>&nbsp;<br/> <b>Special Mentions:</b><br/> git2net: Mining Time-Stamped Co-Editing Networks from Large git Repositories <br/> Christoph Gote, Ingo Scholtes and Frank Schweitzer <br/>&nbsp;<br/> Investigating Next Steps in Static API-Misuse Detection <br/> Sven Amann, Hoan Nguyen, Sarah Nadi, Tien Nguyen and Mira Mezini | 
@@ -102,9 +109,10 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | Best Mining Challenge Paper: <br/> Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring <br/>Anthony Peruma, Eman Abdullah AlOmar, Christian D. Newman, Mohamed Wiem Mkaouer, Ali Ouni <br/>&nbsp;<br/> Best Mining Challenge Student Presentations: <br/> Nicholas Nagy for presenting On the Co-Occurrence of Refactoring of Test and Source Code <br/>&nbsp;<br/> Anthony Peruma for presenting Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring<br/> |
 | 2021 | [PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects](https://ieeexplore.ieee.org/document/9463149) <br/> Arthur Veloso Kamienski, Luisa Palechor, Abram Hindle, Cor-Paul Bezemer |
 | 2020 | ? |
-| 2019 | Best Mining Challenge Paper: <br/> Python Coding Style Compliance on Stack Overflow <br/> Nikolaos Bafatakis, Niels Boecker, Wenjie Boon, Martin Cabello Salazar, Jens Krinke, Gazi Oznacar and Robert White <br/>&nbsp;<br/> Best Student Presentation: <br/> Durham Abric for the paper "Can Duplicate Posts on Stack Overflow Benefit the Software Development Community?" by Durham Abric, Oliver Clark, Matthew Caminiti, Keheliya Gallaba and Shane McIntosh |
+| 2019 | Best Mining Challenge Paper: <br/> Python Coding Style Compliance on Stack Overflow <br/> Nikolaos Bafatakis, Niels Boecker, Wenjie Boon, Martin Cabello Salazar, Jens Krinke, Gazi Oznacar and Robert White <br/>&nbsp;<br/> Best Mining Challenge Student Presentation: <br/> Durham Abric for presenting the paper "Can Duplicate Posts on Stack Overflow Benefit the Software Development Community?" by Durham Abric, Oliver Clark, Matthew Caminiti, Keheliya Gallaba and Shane McIntosh |
 | 2018 | ? | 
 | 2017 | [How Does Contributors' Involvement Influence the Build Status of an Open-Source Software Project?](http://gustavopinto.org/lost+found/msr2017b.pdf) <br/> Marcel Rebouças, Renato Oliveira Dos Santos, Gustavo Pinto and Fernando Castor |
 | 2016 | [Judging a commit by its cover: Correlating commit message entropy with build status on Travis-CI](http://dl.acm.org/citation.cfm?id=2903493) <br/> Eddie Antonio Santos and Abram Hindle | 
@@ -123,6 +131,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | Melina Vidoni <br/> Earl Barr <br/> Breno Miranda <br/> Shaowei Wang <br/> Ewan Tempero <br/> Alexander Serebrenik <br/> Kevin Moran <br/> Sebastiano Panichella <br/> Triet Le <br/> Leandro Minku <br/>Tapajit Dey <br/> Daniel Alencar da Costa |
 | 2020 | Serge Demeyer <br/> Andre Hora <br/> Nikolaos Tsantalis <br/> Maurício Aniche <br/> Maleknaz Nayebi <br/> Jesus M. Gonzalez-Barahona <br/> Francisco Servant <br/> Philipp	Leitner |
 | 2019 | Kelly Blincoe <br/> Eleni Constantinou <br/> Jesus González-Barahona <br/> Sebastian Proksch <br/> Fernando Castor <br/> Alessandro Garcia <br/> Eirini Kalliamvakou <br/> Erik Wittern |
 
