@@ -144,6 +144,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 | 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German |
 
 # Best Hackathon Paper
+
 | Year | <!-- --> |
 |-|-|
 | 2022 | Bot Detection in GitHub Repositories <br/> Natarajan Chidambaram, Pooya Rostami Mazrae |
@@ -152,8 +153,8 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
-| 2023 Regular PC | Bianca Trinkenreich <br/> Csaba Nagy <br/> Dong Wang <br/> Fabio Palomba <br/> Maxime Lamothe <br/> Melina Vidoni <br/> Pooja Rani <br/> Romain Robbes <br/> Serena Elisa Ponta <br/> Thomas Durieux <br/> Vincent Hellendoorn <br/> Yuan Tian <br/> Zsuzsanna Onet-Marian |
-| 2023 Junior PC | Carolin Brandt <br/> Daniel Feitosa <br/> Kevin Jesse <br/> Lina Ochoa <br/> Luís Cruz <br/> Max Hort <br/> Victoria Jackson |
+| 2023 <br/>Regular PC | Bianca Trinkenreich <br/> Csaba Nagy <br/> Dong Wang <br/> Fabio Palomba <br/> Maxime Lamothe <br/> Melina Vidoni <br/> Pooja Rani <br/> Romain Robbes <br/> Serena Elisa Ponta <br/> Thomas Durieux <br/> Vincent Hellendoorn <br/> Yuan Tian <br/> Zsuzsanna Onet-Marian |
+| 2023 <br/>Junior PC | Carolin Brandt <br/> Daniel Feitosa <br/> Kevin Jesse <br/> Lina Ochoa <br/> Luís Cruz <br/> Max Hort <br/> Victoria Jackson |
 | 2022 | Melina Vidoni <br/> Earl Barr <br/> Breno Miranda <br/> Shaowei Wang <br/> Ewan Tempero <br/> Alexander Serebrenik <br/> Kevin Moran <br/> Sebastiano Panichella <br/> Triet Le <br/> Leandro Minku <br/>Tapajit Dey <br/> Daniel Alencar da Costa |
 | 2020 | Serge Demeyer <br/> Andre Hora <br/> Nikolaos Tsantalis <br/> Maurício Aniche <br/> Maleknaz Nayebi <br/> Jesus M. Gonzalez-Barahona <br/> Francisco Servant <br/> Philipp	Leitner |
 | 2019 | Kelly Blincoe <br/> Eleni Constantinou <br/> Jesus González-Barahona <br/> Sebastian Proksch <br/> Fernando Castor <br/> Alessandro Garcia <br/> Eirini Kalliamvakou <br/> Erik Wittern |

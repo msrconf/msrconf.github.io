@@ -1,10 +1,18 @@
 Welcome to the International Conference on Mining Software Repositories!
 The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
-### [Mining Software Repositories Awards 2022](https://conf.researchr.org/track/msr-2022/msr-2022-msr-awards)
-The Mining Software Repositories community has started a series of two new 
-awards, the MSR Ric Holt Early Career Achievement Award and the MSR Foundational 
-Contribution Award. Please submit your nominations by February 15, 2022.
+### Mining Software Repositories Awards
+The Mining Software Repositories community has several awards that recognize outstanding contributions.
+
+* The **Foundational Contribution Award** recognizes fundamental contributions in the field of mining software repositories, which helped many others to build on it to advance the state of the art.
+* The **Ric Holt Early Career Achievement Award** recognizes outstanding junior researchers who have provided outstanding contributions in the area of mining software repositories.
+* The **Distinguished Doctoral Research Award** recognizes outstanding doctoral research that has the potential to have a strong, long-lasting impact in the research area of mining software repositories. 
+
+For more information on how to nominate for these awards, please visit the webpages of the current MSR conference.
+
+### FOSS Impact Award
+
+To encourage research on understanding and improving FOSS (Free, Open Source Software), the MSR conference has established the FOSS Impact Award. The award will be granted to papers that show outstanding contributions to the FOSS community.
 
 ### [MSR Hall of Fame](http://www.msrconf.org/hall-of-fame)
 The Hall of Fame collects award winners from past MSR conferences.
