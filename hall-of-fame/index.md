@@ -2,6 +2,7 @@
 
 | Year | <!-- --> |
 |-|-|
+2023 | Audris Mockus <br/> "For his sustained contributions to mining software repositories, starting with his early case studies of Apache and Mozilla to his introduction of the World of Code infrastructure." |
 2022 | Dongmei Zhang and Tao Xie<br/> "For their fundamental contributions in opening new areas of software analytics research with pioneering results and techniques that have had high industrial impact. |
 2021 | Bram Adams, Queens University, Canada <br/> "For pioneering and evangelising the field of release engineering." |
 2020 | Jonathan Maletic and Michael Collard <br/> "For the srcML infrastructure, which addresses many hard problems in source code parsing and has fostered a wide range of research innovations throughout software engineering." |
@@ -15,6 +16,7 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 
 | Year | <!-- --> |
 |-|-|
+| 2023 | Li Li <br/> "For his contributions to the state-of-the-art in research and practice of software quality and evolution, especially concerning the evolution of Android apps and the Android OS." |
 | 2022 | Gustavo Pinto <br/> "For his seminal contributions to the study of software sustainability, along dimensions of energy-consumption and social aspects of open source." | 
 | 2021 | Bogdan Vasilescu, Carnegie Mellon University, USA <br/> "For his seminal contributions in the area of socio-technical behaviour of software engineers." |
 | 2020 | Alberto Bacchelli, University of Zurich, Switzerland <br/> "For his seminal contributions to modern code review." |
@@ -22,10 +24,18 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 | 2018 | Meiyappan Nagappan |
 | 2017 | Abram Hindle, University of Alberta, Canada <br/> "To recognize the rigor, fearlessness, and breadth of his MSR-related research, and for establishing a new area of research related to green-mining." |
 
+# MSR Doctoral Research Award
+
+| Year | <!-- --> |
+|-|-|
+| 2023 | Eman Abdullah AlOmar <br/> "For her contribution to understanding developer perception of refactoring: literature reviews, mining, tool, and empirical, surveys that are being adopted by the community, industrial trials." |
+
 # Most Influential Papers
 
 | Year | <!-- --> |
 |-|-|
+| 2023 | Mining source code repositories at massive scale using language modeling <br/> Miltiadis Allamanis and Charles Sutton. <br/>For pioneering the use of large scale language models on source code, something that has become extremely relevant and timely after 10 years." |
+| 2023 | The impact of tangled code changes <br/> Kim Herzig and Andreas Zeller. <br/> "For emphasizing how the scope of a commit as a cohesive and self-contained piece of work has been an assumption for several pieces of research done by the MSR community, and for providing an approach to split a tangled commit into cohesive ones." |
 | 2022 | GHTorrent: Github’s data from a firehose <br/> Georgios Gousios and Diomidis Spinellis <br/> "For conceiving and maintaining the GHTorrent archive, extensively leveraged by the MSR community." <br/>&nbsp;<br/> Runner Up: <br/> App store mining and analysis: MSR for app stores <br/> Mark Harman, Yue Jia, and Yuanyuan Zhang <br/> "For the pioneering work in the area of app store analytics." |
 | 2021 | [How do developers blog? An exploratory study](https://dl.acm.org/doi/10.1145/1985441.1985461) <br/>Dennis Pagano and Walid Maleej<br/> "For widening the scope of our community with the study of social media." |
 | 2020 | [An extensive comparison of bug prediction approaches](https://ieeexplore.ieee.org/document/5463279) <br/> Marco D’Ambros, Michele Lanza, and Romain Robbes <br/> "For early adoption of open science principles by sharing a dataset that enabled significant further research in bug prediction." <br/>&nbsp;<br/> <b>Honorable Mention:</b> [Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings](https://ieeexplore.ieee.org/document/5463348) <br/> Gregorio Robles <br/> "For highlighting the importance of replication in mining software repositories." | 
@@ -41,6 +51,9 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 
 | Year | <!-- --> |
 |-|-|
+| 2023 | AutoML from Software Engineering Perspective: Landscapes and Challenges <br/> Chao Wang, Zhenpeng Chen, Minghui Zhou |
+| 2023 | Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates <br/> Hamid Mohayeji Nasrabadi, Andrei Agaronian, Eleni Constantinou, Nicola Zanone, Alexander Serebrenik |
+| 2023 | The ABLoTS Approach for Bug Localization: is it replicable and generalizable? <br/> Feifei Niu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Jidong Ge, Bin Luo, Alexander Egyed |
 | 2022 | A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts <br/> Konstantin Grotov, Sergey Titov, Vladimir Sotnikov, Yaroslav Golubev, Timofey Bryksin |
 | 2022 | On the Violation of Honesty in Mobile Apps: Automated Detection and Categories <br/> Humphrey Obie, Idowu Oselumhe Ilekura, Hung Du, Mojtaba Shahin, John Grundy, Li Li, Jon Whittle, Burak Turhan |
 | 2022 | Operationalizing Threats to MSR Studies by Simulation-Based Testing <br/> Johannes Härtel, Ralf Laemmel |
@@ -78,13 +91,14 @@ Until 2015 the MSR conference recognized outstanding papers with MSR Best Paper 
 | 2007 | [Identifying Changed Source Code Lines from Version Repositories](http://dl.acm.org/citation.cfm?id=1269028) <br/> Gerardo Canfora, Luigi Cerulo, and Massimiliano Di Penta |
 | 2006 | [Mining Large Software Compilations over Time: Another Perspective of Software Evolution](http://dl.acm.org/citation.cfm?id=1137986)<br/> Gregorio Robles, Jesus M. Gonzalez-Barahona, Martin Michlmayr, and Juan Jose Amor |
 
-# FOSS Award
+# FOSS Impact Paper Award
 
-In an effort to encourage research on understanding and improving FOSS (Free, Open Source Software), MSR has established the “FOSS Impact paper” award. The award will be granted to papers that show outstanding contributions to the FOSS community.
+In an effort to encourage research on understanding and improving FOSS (Free, Open Source Software), MSR has established the "FOSS Impact paper" award. The award will be granted to papers that show outstanding contributions to the FOSS community.
 
 | Year | <!-- --> |
 |-|-|
-| 2022  
+| 2023 | UNGOML: Automated Classification of unsafe Usages in Go <br/> Anna-Katharina Wickert, Clemens Damke, Lars Baumgärtner, Eyke Hüllermeier, Mira Mezini |
+| 2022 | SECOM: Towards a Convention for Security Commit Messages <br/> Sofia Reis, Rui Abreu, Hakan Erdogmus, Corina S. Păsăreanu |
 | 2021 | [Which contributions count? Analysis of attribution in open source](https://arxiv.org/abs/2103.11007)<br/>Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hébert-Dufresne, James P. Bagrow |
 | 2020 | [The Impact of a Major Security Event on an Open Source Project: The Case of OpenSSL](https://dl.acm.org/doi/10.1145/3379597.3387465) <br/> James Walden <br/> "For its analysis on the impact of the Heartbleed vulnerability on the OpenSSL project, providing recommendations for how open source projects can adapt and improve. The author provides guidance regarding metrics that helps to assess the health of a project. This paper is a piece of literature that interesting and relevant to many FOSS maintainers." |
 | 2019 | A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks <br/> João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo and Juliana Freire <br/>&nbsp;<br/> <b>Special Mentions:</b><br/> git2net: Mining Time-Stamped Co-Editing Networks from Large git Repositories <br/> Christoph Gote, Ingo Scholtes and Frank Schweitzer <br/>&nbsp;<br/> Investigating Next Steps in Static API-Misuse Detection <br/> Sven Amann, Hoan Nguyen, Sarah Nadi, Tien Nguyen and Mira Mezini | 
@@ -95,6 +109,8 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2022 | A Large-scale Dataset of (Open Source) License Text Variants <br/> Stefano Zacchiroli | 
+| 2022 | Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques <br/> Quang-Cuong Bui, Riccardo Scandariato, Nicolás E. Díaz Ferreyra |
 | 2021 | [DUETS: a Dataset of Reproducible Pairs of Java Library-Clients](https://arxiv.org/abs/2103.09672) <br/>Thomas Durieux, César Soto-Valero, Benoit Baudry |
 | 2020 | [GitterCom: A Dataset of Open Source Developer Communications in Gitter](https://dl.acm.org/doi/10.1145/3379597.3387494) <br/> Esteban Parra, Ashley Ellis and Sonia Haiduc |
 | 2019 | The Maven Dependency Graph: a Temporal Graph-based Representation of Maven Centra <br/> Amine Benelallam, Nicolas Harrand, César Soto-Valero, Benoit Baudry and Olivier Barais <br/>&nbsp;<br/> <b>Special Mention:</b>GreenHub Farmer: Real-world data for Android Energy Mining <br/> Hugo Matalonga, Bruno Cabral, Fernando Castor, Marco Couto, Rui Pereira, Simão Melo de Sousa and João Paulo Fernandes | 
@@ -127,10 +143,17 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 | 2007 | [Mining Eclipse Developer Contributions via Author-Topic Models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4228667) <br/> Erik Linstead, Paul Rigor, Sushil Bajracharya, Cristina Lopes, and Pierre Baldi |
 | 2006 | [A study of the contributors of PostgreSQL](http://dl.acm.org/citation.cfm?id=1138022) <br/> Daniel M. German |
 
+# Best Hackathon Paper
+| Year | <!-- --> |
+|-|-|
+| 2022 | Bot Detection in GitHub Repositories <br/> Natarajan Chidambaram, Pooya Rostami Mazrae |
+
 # MSR Distinguished Reviewers
 
 | Year | <!-- --> |
 |-|-|
+| 2023 Regular PC | Bianca Trinkenreich <br/> Csaba Nagy <br/> Dong Wang <br/> Fabio Palomba <br/> Maxime Lamothe <br/> Melina Vidoni <br/> Pooja Rani <br/> Romain Robbes <br/> Serena Elisa Ponta <br/> Thomas Durieux <br/> Vincent Hellendoorn <br/> Yuan Tian <br/> Zsuzsanna Onet-Marian |
+| 2023 Junior PC | Carolin Brandt <br/> Daniel Feitosa <br/> Kevin Jesse <br/> Lina Ochoa <br/> Luís Cruz <br/> Max Hort <br/> Victoria Jackson |
 | 2022 | Melina Vidoni <br/> Earl Barr <br/> Breno Miranda <br/> Shaowei Wang <br/> Ewan Tempero <br/> Alexander Serebrenik <br/> Kevin Moran <br/> Sebastiano Panichella <br/> Triet Le <br/> Leandro Minku <br/>Tapajit Dey <br/> Daniel Alencar da Costa |
 | 2020 | Serge Demeyer <br/> Andre Hora <br/> Nikolaos Tsantalis <br/> Maurício Aniche <br/> Maleknaz Nayebi <br/> Jesus M. Gonzalez-Barahona <br/> Francisco Servant <br/> Philipp	Leitner |
 | 2019 | Kelly Blincoe <br/> Eleni Constantinou <br/> Jesus González-Barahona <br/> Sebastian Proksch <br/> Fernando Castor <br/> Alessandro Garcia <br/> Eirini Kalliamvakou <br/> Erik Wittern |
