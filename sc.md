@@ -8,19 +8,22 @@ The composition of the steering committee is as follows:
 
 Example: The PC chair of MSR 2011 would rotate off at the end of the meeting at MSR 2014
 
-# MSR Steering Committee (as of February 2024)
+# MSR Steering Committee (as of April 2024)
 
 To contact the Steering Committee, please send an email to msr-sc (at) googlegroups (dot) com
 
 | Name | Member Status |
 |------|---------------|
+| Bram Adams | MSR 2025 GC, MSR 2019 PC, Election 2016 |
 | Alberto Bacchelli | MSR 2024 PC, Election 2018 |
+| Olga Baysal | MSR 2025 PC |
 | Kelly Blincoe | MSR 2021 PC |
 | Eleni Constantinou | MSR 2024 PC |
 | David Lo | MSR 2022 GC |
 | Shane McIntosh | MSR 2022 PC |
 | Mei Nagappan | MSR 2021 PC, Election 2017 |
 | Nicole Novielli | MSR 2022 PC |
+| Ayushi Rastogi | MSR 2025 PC |
 | Gregorio Robles | MSR 2021 GC |
 | Emad Shihab | MSR 2023 GC, Election 2018 |
 | Diomidis Spinellis | MSR 2024 GC, Election 2016 |
@@ -28,11 +31,10 @@ To contact the Steering Committee, please send an email to msr-sc (at) googlegro
 | Bogdan Vasilescu | MSR 2023 PC |
 | Thomas Zimmermann | SC Chair, MSR 2010 PC, MSR 2011 PC, MSR 2013 GC |
 
-# MSR Steering Committee Alumni (as of February 2024)
+# MSR Steering Committee Alumni (as of April 2024)
 
 | Name | Member Status |
 |------|---------------|
-| Bram Adams | MSR 2019 PC, Election 2016 |
 | Christian Bird | Election 2020, MSR 2016 PC |
 | Georgios Gousios | MSR 2020 PC, Election 2017 |
 | Sonia Haiduc | MSR 2019 PC |
