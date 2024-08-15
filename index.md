@@ -3,7 +3,7 @@ The Mining Software Repositories (MSR) field analyzes the rich data available in
 
 ### Upcoming confererences
 MSR 2026, Rio de Janeiro, Brazil <br/>
-MSR 2025, Ottawa, Canada <br/>
+[MSR 2025](https://2025.msrconf.org/), Ottawa, Canada <br/>
 [MSR 2024](https://2024.msrconf.org/), Lisbon, Portugal <br/>
 
 ### Mining Software Repositories Awards
