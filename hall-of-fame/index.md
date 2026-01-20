@@ -59,6 +59,11 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | It’s About Time: An Empirical Study of Date and Time Bugs in Open-Source Python Software <br/> Shrey Tiwari, Serena Chen, Alexander Joukov, Peter Vandervelde, Ao Li, Rohan Padhye |
+| 2025 | Can LLMs Replace Manual Annotation of Software Engineering Artifacts? <br/> Toufique Ahmed, Prem Devanbu, Christoph Treude, Michael Pradel |
+| 2025 | Does Functional Package Management Enable Reproducible Builds at Scale? Yes. <br/> Julien Malka, Stefano Zacchiroli, Théo Zimmermann |
+| 2025 | How Effective are LLMs for Data Science Coding? A Controlled Experiment <br/> Nathalia Nascimento, Everton Guimaraes, Sai Sanjna Chintakunta, Santhosh AB |
+| 2025 | How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning <br/> Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi |
 | 2023 | AutoML from Software Engineering Perspective: Landscapes and Challenges <br/> Chao Wang, Zhenpeng Chen, Minghui Zhou |
 | 2023 | Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates <br/> Hamid Mohayeji Nasrabadi, Andrei Agaronian, Eleni Constantinou, Nicola Zanone, Alexander Serebrenik |
 | 2023 | The ABLoTS Approach for Bug Localization: is it replicable and generalizable? <br/> Feifei Niu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Jidong Ge, Bin Luo, Alexander Egyed |
@@ -118,6 +123,8 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | A Dataset of Contributor Activities in the NumFocus Open-Source Community <br/> Youness Hourri, Alexandre Decan , Tom Mens | 
+| 2025 | E2EGit: A Dataset of End-to-End Web Tests in Open Source Projects <br/> Sergio Di Meglio, Luigi Libero Lucio Starace, Valeria Pontillo, Ruben Opdebeeck, Coen De Roover, Sergio Di Martino | 
 | 2022 | A Large-scale Dataset of (Open Source) License Text Variants <br/> Stefano Zacchiroli | 
 | 2022 | Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques <br/> Quang-Cuong Bui, Riccardo Scandariato, Nicolás E. Díaz Ferreyra |
 | 2021 | [DUETS: a Dataset of Reproducible Pairs of Java Library-Clients](https://arxiv.org/abs/2103.09672) <br/>Thomas Durieux, César Soto-Valero, Benoit Baudry |
