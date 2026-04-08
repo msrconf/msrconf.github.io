@@ -2,9 +2,10 @@ Welcome to the International Conference on Mining Software Repositories!
 The Mining Software Repositories (MSR) field analyzes the rich data available in software repositories to uncover interesting and actionable information about software systems and projects. The goal of this two-day conference is to advance the science and practice of MSR.
 
 ### Upcoming confererences
-MSR 2026, Rio de Janeiro, Brazil <br/>
+MSR 2027, Dublin, Ireland <br/>
+[MSR 2026](https://2026.msrconf.org/), Rio de Janeiro, Brazil <br/>
 [MSR 2025](https://2025.msrconf.org/), Ottawa, Canada <br/>
-[MSR 2024](https://2024.msrconf.org/), Lisbon, Portugal <br/>
+
 
 ### Mining Software Repositories Awards
 The Mining Software Repositories community has several awards that recognize outstanding contributions.
@@ -25,6 +26,7 @@ The Hall of Fame collects award winners from past MSR conferences.
 ### [MSR Steering Committee](http://www.msrconf.org/sc)
 
 ### Past conferences
+[MSR 2024](https://2024.msrconf.org/), Lisbon, Portugal <br/>
 [MSR 2023](https://conf.researchr.org/home/msr-2023), Melbourne, Australia <br/>
 [MSR 2022](https://conf.researchr.org/home/msr-2022), Pittsburgh, PA, USA <br/>
 [MSR 2021](https://2021.msrconf.org/), Madrid, Spain (Virtual)<br/>
@@ -53,3 +55,4 @@ For information concerning the impact and value of MSR publications, please cons
 
 ### Contact
 Any questions about the MSR conference series? Contact the MSR Steering Committee (msr-sc at googlegroups dot com) and we’ll help you sort it out.
+
