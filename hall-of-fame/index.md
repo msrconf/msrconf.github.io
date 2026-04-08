@@ -2,6 +2,8 @@
 
 | Year | <!-- --> |
 |-|-|
+2025 | David Lo <br/> "For pioneering, influential, extensive, and lasting contributions to transforming bug and test data into insights and automation that improve software quality and productivity." |
+2024 | Margaret-Anne (Peggy) Storey <br/> "For their methodological contributions to the community for work that goes beyond statistical models of mined repository data and encourages others to better understand their findings through triangulation using multiple methodologies." |
 2023 | Audris Mockus <br/> "For his sustained contributions to mining software repositories, starting with his early case studies of Apache and Mozilla to his introduction of the World of Code infrastructure." |
 2022 | Dongmei Zhang and Tao Xie<br/> "For their fundamental contributions in opening new areas of software analytics research with pioneering results and techniques that have had high industrial impact. |
 2021 | Bram Adams, Queens University, Canada <br/> "For pioneering and evangelising the field of release engineering." |
@@ -16,6 +18,8 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | Ayushi Rastogi <br/> "For contributions to addressing prominent research challenges impacting software companies, open-source communities, and society, as well as dedication to community service." |
+| 2024 | Patanamon (Pick) Thongtanunam <br/> "For their contributions to understanding and improving modern code review practices using mining software repositories techniques." |
 | 2023 | Li Li <br/> "For his contributions to the state-of-the-art in research and practice of software quality and evolution, especially concerning the evolution of Android apps and the Android OS." |
 | 2022 | Gustavo Pinto <br/> "For his seminal contributions to the study of software sustainability, along dimensions of energy-consumption and social aspects of open source." | 
 | 2021 | Bogdan Vasilescu, Carnegie Mellon University, USA <br/> "For his seminal contributions in the area of socio-technical behaviour of software engineers." |
@@ -28,12 +32,16 @@ The MSR Early Career Achievement Award was named in 2020 after [Ric Holt](https:
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | Nathan Cassee <br/> "For an extensive study of sentiment in software engineering, from theory via tooling to applications, excelling in the diversity of research methods and extraordinary methodological rigour." |
+| 2024 | Gunnar Kudrjavets <br/> "For their contribution to improving code review velocity by empirically challenging prominent beliefs, presenting solutions, and identifying gaps in developers’ and industry needs." |
 | 2023 | Eman Abdullah AlOmar <br/> "For her contribution to understanding developer perception of refactoring: literature reviews, mining, tool, and empirical, surveys that are being adopted by the community, industrial trials." |
 
 # Most Influential Papers
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | Toward deep learning software repositories <br/> Martin White, Christopher Vendome, Mario Linares-Vasquez and Denys Poshyvanyk <br/> |
+| 2024 | The promises and perils of mining GitHub <br/> Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. German, and Daniela Damian. <br/>For its critical examination of data mining on GitHub, highlighting the challenges and implications for research in software repositories. Its impact over the years has been significant, shaping how the community approaches and interprets data from GitHub." |
 | 2023 | Mining source code repositories at massive scale using language modeling <br/> Miltiadis Allamanis and Charles Sutton. <br/>For pioneering the use of large scale language models on source code, something that has become extremely relevant and timely after 10 years." |
 | 2023 | The impact of tangled code changes <br/> Kim Herzig and Andreas Zeller. <br/> "For emphasizing how the scope of a commit as a cohesive and self-contained piece of work has been an assumption for several pieces of research done by the MSR community, and for providing an approach to split a tangled commit into cohesive ones." |
 | 2022 | GHTorrent: Github’s data from a firehose <br/> Georgios Gousios and Diomidis Spinellis <br/> "For conceiving and maintaining the GHTorrent archive, extensively leveraged by the MSR community." <br/>&nbsp;<br/> Runner Up: <br/> App store mining and analysis: MSR for app stores <br/> Mark Harman, Yue Jia, and Yuanyuan Zhang <br/> "For the pioneering work in the area of app store analytics." |
@@ -51,6 +59,11 @@ Starting 2015 the MSR conference recognized outstanding papers with ACM SIGSOFT 
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | It’s About Time: An Empirical Study of Date and Time Bugs in Open-Source Python Software <br/> Shrey Tiwari, Serena Chen, Alexander Joukov, Peter Vandervelde, Ao Li, Rohan Padhye |
+| 2025 | Can LLMs Replace Manual Annotation of Software Engineering Artifacts? <br/> Toufique Ahmed, Prem Devanbu, Christoph Treude, Michael Pradel |
+| 2025 | Does Functional Package Management Enable Reproducible Builds at Scale? Yes. <br/> Julien Malka, Stefano Zacchiroli, Théo Zimmermann |
+| 2025 | How Effective are LLMs for Data Science Coding? A Controlled Experiment <br/> Nathalia Nascimento, Everton Guimaraes, Sai Sanjna Chintakunta, Santhosh AB |
+| 2025 | How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning <br/> Fabio Salerno, Ali Al-Kaswan, Maliheh Izadi |
 | 2023 | AutoML from Software Engineering Perspective: Landscapes and Challenges <br/> Chao Wang, Zhenpeng Chen, Minghui Zhou |
 | 2023 | Investigating the Resolution of Vulnerable Dependencies with Dependabot Security Updates <br/> Hamid Mohayeji Nasrabadi, Andrei Agaronian, Eleni Constantinou, Nicola Zanone, Alexander Serebrenik |
 | 2023 | The ABLoTS Approach for Bug Localization: is it replicable and generalizable? <br/> Feifei Niu, Christoph Mayr-Dorn, Wesley Assunção, Liguo Huang, Jidong Ge, Bin Luo, Alexander Egyed |
@@ -97,6 +110,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | Mining a Decade of Contributor Dynamics in Ethereum: A Longitudinal Study <br/> Matteo Vaccargiu, Sabrina Aufiero, Cheick Ba, Silvia Bartolucci, Richard Clegg, Daniel Graziotin, Rumyana Neykova, Roberto Tonelli, Giuseppe Destefanis |
 | 2023 | UNGOML: Automated Classification of unsafe Usages in Go <br/> Anna-Katharina Wickert, Clemens Damke, Lars Baumgärtner, Eyke Hüllermeier, Mira Mezini |
 | 2022 | SECOM: Towards a Convention for Security Commit Messages <br/> Sofia Reis, Rui Abreu, Hakan Erdogmus, Corina S. Păsăreanu |
 | 2021 | [Which contributions count? Analysis of attribution in open source](https://arxiv.org/abs/2103.11007)<br/>Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hébert-Dufresne, James P. Bagrow |
@@ -109,6 +123,8 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2025 | A Dataset of Contributor Activities in the NumFocus Open-Source Community <br/> Youness Hourri, Alexandre Decan , Tom Mens | 
+| 2025 | E2EGit: A Dataset of End-to-End Web Tests in Open Source Projects <br/> Sergio Di Meglio, Luigi Libero Lucio Starace, Valeria Pontillo, Ruben Opdebeeck, Coen De Roover, Sergio Di Martino | 
 | 2022 | A Large-scale Dataset of (Open Source) License Text Variants <br/> Stefano Zacchiroli | 
 | 2022 | Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques <br/> Quang-Cuong Bui, Riccardo Scandariato, Nicolás E. Díaz Ferreyra |
 | 2021 | [DUETS: a Dataset of Reproducible Pairs of Java Library-Clients](https://arxiv.org/abs/2103.09672) <br/>Thomas Durieux, César Soto-Valero, Benoit Baudry |
