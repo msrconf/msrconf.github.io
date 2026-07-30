@@ -110,6 +110,7 @@ In an effort to encourage research on understanding and improving FOSS (Free, Op
 
 | Year | <!-- --> |
 |-|-|
+| 2026 | [Lila: Decentralized Build Reproducibility Monitoring for the Functional Package Management Model](https://arxiv.org/abs/2601.20662) <br/> Julien Malka and Arnout Engelen. <br/> "Lila strengthens supply chain security by providing a scalable, operational tool that monitors reproducible builds and shares actionable transparency data directly with package managers and the developer community." <br/><br/> Runner-up: [Quantifying Competitive Relationships Among Open-Source Software Projects](https://arxiv.org/abs/2602.17131) <br/> Yuki Takei, Toshiaki Aoki and Chaiyong Rakhitwetsagul <br/> "The MIAO method provides maintainers and organizations with a data-driven “early-warning system” to quantify competitive pressures and predict project viability, offering a concrete tool for proactive strategic decision-making."|
 | 2025 | Mining a Decade of Contributor Dynamics in Ethereum: A Longitudinal Study <br/> Matteo Vaccargiu, Sabrina Aufiero, Cheick Ba, Silvia Bartolucci, Richard Clegg, Daniel Graziotin, Rumyana Neykova, Roberto Tonelli, Giuseppe Destefanis |
 | 2023 | UNGOML: Automated Classification of unsafe Usages in Go <br/> Anna-Katharina Wickert, Clemens Damke, Lars Baumgärtner, Eyke Hüllermeier, Mira Mezini |
 | 2022 | SECOM: Towards a Convention for Security Commit Messages <br/> Sofia Reis, Rui Abreu, Hakan Erdogmus, Corina S. Păsăreanu |
